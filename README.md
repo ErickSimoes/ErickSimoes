@@ -11,6 +11,13 @@ Hello humans! I'm Erick Simões, passionate about XR, Arduino and game developme
 - ⚡ Fun fact: I call everyone ´human´ just to annoy the aliens
 <!--- 🤔 I’m looking for help with ...-->
 
+**Top Languages and Tools:**  
+
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/720px-Arduino_Logo.svg.png"></code>
+<code><img height="20" src="https://listimg.pinclipart.com/picdir/s/215-2150367_unity-3d-vector-icon-logo-free-vector-silhouette.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png"></code>
+
 <br/>
 
 [![Erick's github stats](https://github-readme-stats.vercel.app/api?username=ErickSimoes&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/ErickSimoes)
