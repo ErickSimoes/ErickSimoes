@@ -11,7 +11,7 @@ Hello humans! I'm Erick Simões, passionate about XR, Arduino and game developme
 - ⚡ Fun fact: I call everyone ´human´ just to annoy the aliens
 <!--- 🤔 I’m looking for help with ...-->
 
-**Top Languages and Tools:**  
+### Top Languages and Tools:
 
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/720px-Arduino_Logo.svg.png"></code>
 <code><img height="20" src="https://listimg.pinclipart.com/picdir/s/215-2150367_unity-3d-vector-icon-logo-free-vector-silhouette.png"></code>
@@ -23,11 +23,11 @@ Hello humans! I'm Erick Simões, passionate about XR, Arduino and game developme
 [![Erick's github stats](https://github-readme-stats.vercel.app/api?username=ErickSimoes&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/ErickSimoes)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickSimoes&hide=shaderlab,hlsl&layout=compact)](https://github.com/ErickSimoes)
 
-Developer of:
+### Developer of:
 
 [![Ultrasonic](https://github-readme-stats.vercel.app/api/pin/?username=ErickSimoes&repo=ultrasonic)](https://github.com/ErickSimoes/Ultrasonic)
 [![JediSlider](https://github-readme-stats.vercel.app/api/pin/?username=ErickSimoes&repo=JediSlider)](https://github.com/ErickSimoes/JediSlider)
 
-Contributor:
+### Contributor:
 
 [![Brasilino](https://github-readme-stats.vercel.app/api/pin/?username=OtacilioN&repo=Brasilino)](https://github.com/OtacilioN/Brasilino)
