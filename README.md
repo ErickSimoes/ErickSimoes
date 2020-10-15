@@ -2,7 +2,7 @@
 
 Hello humans! I'm Erick Simões, passionate about XR, Arduino and game development.
 
-- 🔭 I’m currently working on [@Cesar](https://github.com/CESARBR) | [Cesar School](https://github.com/Abduzidos)
+- 🔭 I’m currently working on [Cesar](https://github.com/CESARBR) | [Cesar School](https://github.com/Abduzidos)
 - 🌱 I’m currently learning `JavaScript` and `Node.js`
 - 👯 I’m looking to collaborate on `educational projects`
 - 💬 Ask me about `VR`, `AR`, `Arduino`, `Unity` and `Python`
