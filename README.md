@@ -13,10 +13,10 @@ Hello humans! I'm Erick Simões, passionate about XR, Arduino and game developme
 
 ### Top Languages and Tools:
 
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/720px-Arduino_Logo.svg.png"></code>
-<code><img height="20" src="https://listimg.pinclipart.com/picdir/s/215-2150367_unity-3d-vector-icon-logo-free-vector-silhouette.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png"></code>
+<code><img height="20" title="Arduino" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/720px-Arduino_Logo.svg.png" alt="Arduino"></code>
+<code><img height="20" title="Unity" src="https://listimg.pinclipart.com/picdir/s/215-2150367_unity-3d-vector-icon-logo-free-vector-silhouette.png" alt="Unity"></code>
+<code><img height="20" title="C#" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg" alt="C#"></code>
+<code><img height="20" title="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" alt="Python"></code>
 
 <br/>
 
