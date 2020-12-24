@@ -20,9 +20,10 @@ Hello humans! I'm Erick Simões, passionate about XR, Arduino and game developme
 
 <br/>
 
-[![Erick's github stats](https://github-readme-stats.vercel.app/api?username=ErickSimoes&count_private=true&show_icons=true&include_all_commits=true&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/ErickSimoes)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickSimoes&hide=shaderlab,hlsl&layout=compact&title_color=C9D1D9&text_color=8B949E&bg_color=0D1117)](https://github.com/ErickSimoes)
+<div>
+  <img height="160" align="center" src="https://github-readme-stats.vercel.app/api?username=ErickSimoes&count_private=true&show_icons=true&include_all_commits=true&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117" />
+  <img height="160" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickSimoes&hide=shaderlab,hlsl&layout=compact&title_color=C9D1D9&text_color=8B949E&bg_color=0D1117" />
+</div>
 
 ### Developer of:
 
