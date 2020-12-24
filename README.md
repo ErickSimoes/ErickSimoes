@@ -24,6 +24,12 @@ Hello humans! I'm Erick Simões, passionate about XR, Arduino and game developme
   <img height="160" align="center" src="https://github-readme-stats.vercel.app/api?username=ErickSimoes&count_private=true&show_icons=true&include_all_commits=true&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117" />
 </div>
 
+### Trophies:
+
+<div>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=ErickSimoes&theme=darkhub&margin-w=3&margin-h=15"/>
+</div>
+
 ### Developer of:
 
 [![Ultrasonic](https://github-readme-stats.vercel.app/api/pin/?username=ErickSimoes&repo=ultrasonic&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/ErickSimoes/Ultrasonic)
