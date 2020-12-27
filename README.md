@@ -34,6 +34,21 @@ Hello humans! I'm Erick Simões, passionate about XR, Arduino and game developme
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Creative Commons](https://img.shields.io/badge/Creative%20Commons-EF9421?style=for-the-badge&logo=creative-commons&logoColor=white)
 
+<!-- Future inserts
+![Javascript](https://img.shields.io/badge/Javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=white)
+![FileZilla](https://img.shields.io/badge/FileZilla-BF0000?style=for-the-badge&logo=filezilla&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
+![Anaconda](https://img.shields.io/badge/anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefox&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white)
+![Google Classroom](https://img.shields.io/badge/Google%20Classroom-4285F4?style=for-the-badge&logo=google-classroom&logoColor=white)
+-->
+<!-- sparkar, iot -->
+
 <br/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ErickSimoes&count_private=true&show_icons=true&include_all_commits=true&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117" />
