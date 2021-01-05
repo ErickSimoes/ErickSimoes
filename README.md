@@ -1,15 +1,28 @@
-### Hi there 👋
+<h1 align='center'>
+Hello humans!</br>I'm Erick 🐱‍🐉
+</h1>
 
-Hello humans! I'm Erick Simões, passionate about XR, Arduino and game development.
+<p align='center'>
+ I'm passionate about XR, Arduino and game development.
+</p>
 
-- 🔭 I’m currently working on [Cesar](https://github.com/CESARBR) | [Cesar School](https://github.com/Abduzidos)
+<div align='center'>
+📫 How to reach me:
+
+[![LindIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericksimoes/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ErickSimoes)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AloEricKSimoes)
+</div>
+
+- 🔭 I’m currently working on [Cesar](https://github.com/CESARBR) | [Cesar School](https://github.com/Abduzidos) and also in [Virto](https://www.instagram.com/virtotecnologia/) as CTO
 - 🌱 I’m currently learning `JavaScript` and `Node.js`
 - 👯 I’m looking to collaborate on `educational projects`
 - 💬 Ask me about `VR`, `AR`, `Arduino`, `Unity` and `Python`
-- 📫 How to reach me: <a href="https://medium.com/@ErickSimoes"> <img alt="Erick Simões | Medium" width="15px" src="https://seeklogo.com/images/M/medium-logo-93CDCF6451-seeklogo.com.png" /> Folow me at Medium </a> or in <a href="https://twitter.com/AloEricKSimoes"> <img alt="Erick Simões | Twitter" width="15px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" /> my Twitter account</a>
 - 😄 Pronouns: Him/His
 - ⚡ Fun fact: I call everyone ´human´ just to annoy the aliens
 <!--- 🤔 I’m looking for help with ...-->
+
+---
 
 ### Top Languages and Tools:
 
@@ -30,7 +43,6 @@ Hello humans! I'm Erick Simões, passionate about XR, Arduino and game developme
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 ![GIMP](https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Creative Commons](https://img.shields.io/badge/Creative%20Commons-EF9421?style=for-the-badge&logo=creative-commons&logoColor=white)
 
