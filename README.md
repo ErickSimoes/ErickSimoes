@@ -65,6 +65,8 @@ Hello humans!</br>I'm Erick 🐱‍🐉
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ErickSimoes&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark" />
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ErickSimoes&theme=github-dark&date_format=j%20M%5B%20Y%5D&ring=4C8EDA&dates=4C8EDA&stroke=1C2F45&border=E4E2E2)](https://git.io/streak-stats)
+
 <!--
 <img align="center" width=495 src="https://github-readme-stats.vercel.app/api/wakatime?username=ErickSimoes&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117"/>
 -->
