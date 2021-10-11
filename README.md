@@ -63,9 +63,11 @@ Hello humans!</br>I'm Erick 🐱‍🐉
 
 <br/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ErickSimoes&count_private=true&show_icons=true&include_all_commits=true&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ErickSimoes&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark" />
 
+<!--
 <img align="center" width=495 src="https://github-readme-stats.vercel.app/api/wakatime?username=ErickSimoes&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117"/>
+-->
 
 ### Trophies:
 
