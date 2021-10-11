@@ -81,3 +81,4 @@ Hello humans!</br>I'm Erick 🐱‍🐉
 ### Contributor:
 
 [![Brasilino](https://github-readme-stats.vercel.app/api/pin/?username=OtacilioN&repo=Brasilino&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/OtacilioN/Brasilino)
+[![FunnyAlgorithms](https://github-readme-stats.vercel.app/api/pin/?username=ReciHub&repo=FunnyAlgorithms&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/ReciHub/FunnyAlgorithms)
