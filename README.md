@@ -14,7 +14,7 @@ Hello humans!</br>I'm Erick 🐱‍🐉
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AloEricKSimoes)
 </div>
 
-- 🔭 I’m currently working on [Cesar](https://github.com/CESARBR) | [Cesar School](https://github.com/Abduzidos) and also in [Virto](https://www.instagram.com/virtotecnologia/) as CTO
+- 🔭 I’m currently working on [Cesar](https://github.com/CESARBR) | [Cesar School](https://github.com/Abduzidos)
 - 🌱 I’m currently learning `JavaScript` and `Node.js`
 - 👯 I’m looking to collaborate on `educational projects`
 - 💬 Ask me about `VR`, `AR`, `Arduino`, `Unity` and `Python`
