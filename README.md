@@ -61,7 +61,9 @@ Hello humans!</br>I'm Erick 🐱‍🐉
 -->
 <!-- sparkar, iot -->
 
-<br/>
+---
+[![@ericksimoes's Holopin board](https://holopin.me/ericksimoes)](https://holopin.io/@ericksimoes)
+---
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ErickSimoes&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark" />
 
