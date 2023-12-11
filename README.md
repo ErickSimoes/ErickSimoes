@@ -15,7 +15,7 @@ Hello humans!</br>I'm Erick 🐱‍🐉
 </div>
 
 - 🔭 I’m currently working on [Cesar](https://github.com/CESARBR) | [Cesar School](https://github.com/Abduzidos)
-- 🌱 I’m currently learning `JavaScript` and `Node.js`
+- 🌱 I’m currently learning `Flask` and `Bootstrap`
 - 👯 I’m looking to collaborate on `educational projects`
 - 💬 Ask me about `VR`, `AR`, `Arduino`, `Unity` and `Python`
 - 😄 Pronouns: Him/His
