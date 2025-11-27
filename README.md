@@ -1,9 +1,9 @@
 <h1 align='center'>
-Hello humans!</br>I'm Erick 🐱‍🐉
+Hello humans!</br>I'm Erick 🤙
 </h1>
 
 <p align='center'>
- I'm passionate about XR, Arduino and game development.
+I'm passionate about game development, XR and Arduino.
 </p>
 
 <div align='center'>
@@ -11,10 +11,9 @@ Hello humans!</br>I'm Erick 🐱‍🐉
 
 [![LindIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericksimoes/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ErickSimoes)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AloEricKSimoes)
 </div>
 
-- 🔭 I’m currently working on [Cesar](https://github.com/CESARBR) | [Cesar School](https://github.com/Abduzidos)
+- 🔭 I’m currently working on [CESAR](https://github.com/CESARBR) | [CESAR School](https://github.com/Abduzidos)
 - 🌱 I’m currently learning `Flask` and `Bootstrap`
 - 👯 I’m looking to collaborate on `educational projects`
 - 💬 Ask me about `VR`, `AR`, `Arduino`, `Unity` and `Python`
